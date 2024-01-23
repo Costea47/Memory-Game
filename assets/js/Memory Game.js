@@ -61,7 +61,7 @@ function shuffleCard(){
     cards.forEach((card, index) => {
         card.classList.remove("flip");
         let imgTag = card.querySelector("img");
-        imgTag.src = `/JAVASCRIPT/week3/Project/Images/Image${arr[index]}.png`;
+        imgTag.src = `./assets/images/Image${arr[index]}.png`;
         card.addEventListener("click", flipCard);
     });  
 }
