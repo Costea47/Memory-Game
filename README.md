@@ -33,11 +33,12 @@ The following image shows the challange appearance and functionality:
 
 
 ![Application Screenshot](assets/images/screenshot.png)
+![Application Screenshot](assets/images/screenshot2.png)
 
 
 ## Deployment
-Live URL: 
-GitHub Repository: 
+Live URL: https://costea47.github.io/Memory-Game/
+GitHub Repository: https://github.com/Costea47/Memory-Game/
 
 ## License
 This project is licensed under the MIT License.
